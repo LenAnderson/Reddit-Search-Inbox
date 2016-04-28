@@ -3,7 +3,6 @@
 // @namespace    https://github.com/LenAnderson/
 // @downloadURL  https://github.com/LenAnderson/Reddit-Search-Inbox/raw/master/reddit_search_inbox.user.js
 // @version      1.0
-// @description  try to take over the world!
 // @author       LenAnderson
 // @match        https://www.reddit.com/message/*/
 // @grant        none
